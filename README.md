@@ -1,6 +1,6 @@
 # Holodeck-Automation
 
-A collection of scripts and tools built to automate repetitive tasks and simplify day-to-day administration of VMware Holodeck lab environments.
+A collection of scripts and tools built to simplify day-to-day administration of VMware Holodeck lab environments.
 
 ## Overview
 
@@ -8,7 +8,6 @@ This repository contains automation and utility scripts developed to help VMware
 
 ## Features
 
-- Automates repetitive administrative tasks
 - Simplifies VMware Holodeck management
 - Improves operational efficiency
 - Includes real-world tools developed during lab and platform engineering efforts
